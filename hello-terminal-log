@@ -1,8 +1,5 @@
-{
-uname -s
-echo "hello camp"
-whoami
-pwd
-git --version
-} | tee hello-terminal.txt
-cat hello-terminal.txt
+MINGW64_NT-10.0-26200
+hello camp
+Admin
+/c/Users/Admin
+git version 2.54.0.windows.1
