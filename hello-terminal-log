@@ -1,0 +1,8 @@
+{
+uname -s
+echo "hello camp"
+whoami
+pwd
+git --version
+} | tee hello-terminal.txt
+cat hello-terminal.txt
